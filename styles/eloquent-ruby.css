@@ -1,0 +1,8 @@
+.review-section {
+    background-color: lightgray;
+    padding: 1rem;
+}
+
+.review-section > p {
+    line-height: 150%
+}

@@ -1,10 +1,35 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color:red
+}
+
+h3 {
+    color:orangered
+}
+
 .page-title {
     background-color:linen;
     border: 1px solid maroon;
     padding: 1rem;
-    font-color:
+    color: maroon;
+    
 }
 
 .page-content {
     background-color: bisque;
+}
+
+.book-title {
+    font-style: italic;
+}
+
+li {
+    list-style-type: none
+}
+
+a:hover {
+    color:brown
 }
